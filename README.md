@@ -1,6 +1,6 @@
 ## Hi there 👋
 名古屋の大学生です
-
+I'm a university student living in nagoya
 <!--
 **imachan7/imachan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
